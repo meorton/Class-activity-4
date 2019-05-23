@@ -1,0 +1,7 @@
+bin\Debug\StringMethods.exe
+bin\Debug\StringMethods.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\frmMain.resources
+obj\Debug\StringMethods.csproj.GenerateResource.Cache
+obj\Debug\StringMethods.exe
+obj\Debug\StringMethods.pdb

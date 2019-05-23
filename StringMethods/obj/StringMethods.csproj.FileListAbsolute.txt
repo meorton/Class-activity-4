@@ -1,0 +1,14 @@
+C:\NewC#Book\Chapter05\StringMethods\StringMethods\obj\Debug\StringMethods.exe
+C:\NewC#Book\Chapter05\StringMethods\StringMethods\obj\Debug\StringMethods.pdb
+C:\NewC#Book\Chapter05\StringMethods\StringMethods\bin\Debug\StringMethods.exe
+C:\NewC#Book\Chapter05\StringMethods\StringMethods\bin\Debug\StringMethods.pdb
+C:\NewC#Book\Chapter05\StringMethods\StringMethods\obj\Debug\ResolveAssemblyReference.cache
+C:\NewC#Book\Chapter05\StringMethods\StringMethods\obj\Debug\frmMain.resources
+C:\NewC#Book\Chapter05\StringMethods\StringMethods\obj\Debug\StringMethods.csproj.GenerateResource.Cache
+C:\NewC#Book\CodeFolder\Chapter 5\Ch05StringMethods\StringMethods\obj\Debug\StringMethods.exe
+C:\NewC#Book\CodeFolder\Chapter 5\Ch05StringMethods\StringMethods\obj\Debug\StringMethods.pdb
+C:\NewC#Book\CodeFolder\Chapter 5\Ch05StringMethods\StringMethods\bin\Debug\StringMethods.exe
+C:\NewC#Book\CodeFolder\Chapter 5\Ch05StringMethods\StringMethods\bin\Debug\StringMethods.pdb
+C:\NewC#Book\CodeFolder\Chapter 5\Ch05StringMethods\StringMethods\obj\Debug\ResolveAssemblyReference.cache
+C:\NewC#Book\CodeFolder\Chapter 5\Ch05StringMethods\StringMethods\obj\Debug\frmMain.resources
+C:\NewC#Book\CodeFolder\Chapter 5\Ch05StringMethods\StringMethods\obj\Debug\StringMethods.csproj.GenerateResource.Cache

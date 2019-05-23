@@ -1,0 +1,31 @@
+C:\NewC#BookPostContract\Attachments_2011_12_7\NewCodeFolder\Chapter 5\Ch05StringMethods\StringMethods\obj\Debug\StringMethods.exe
+C:\NewC#BookPostContract\Attachments_2011_12_7\NewCodeFolder\Chapter 5\Ch05StringMethods\StringMethods\obj\Debug\StringMethods.pdb
+C:\NewC#BookPostContract\Attachments_2011_12_7\NewCodeFolder\Chapter 5\Ch05StringMethods\StringMethods\bin\Debug\StringMethods.exe
+C:\NewC#BookPostContract\Attachments_2011_12_7\NewCodeFolder\Chapter 5\Ch05StringMethods\StringMethods\bin\Debug\StringMethods.pdb
+C:\NewC#BookPostContract\Attachments_2011_12_7\NewCodeFolder\Chapter 5\Ch05StringMethods\StringMethods\obj\Debug\ResolveAssemblyReference.cache
+C:\NewC#BookPostContract\Attachments_2011_12_7\NewCodeFolder\Chapter 5\Ch05StringMethods\StringMethods\obj\Debug\frmMain.resources
+C:\NewC#BookPostContract\Attachments_2011_12_7\NewCodeFolder\Chapter 5\Ch05StringMethods\StringMethods\obj\Debug\GenerateResource.read.1.tlog
+C:\NewC#BookPostContract\Attachments_2011_12_7\NewCodeFolder\Chapter 5\Ch05StringMethods\StringMethods\obj\Debug\GenerateResource.write.1.tlog
+C:\NewC#BookPostContract\Attachments_2011_12_7\NewCodeFolder\Chapter 5\Chapter05StringMethods\StringMethods\obj\Debug\StringMethods.exe
+C:\NewC#BookPostContract\Attachments_2011_12_7\NewCodeFolder\Chapter 5\Chapter05StringMethods\StringMethods\obj\Debug\StringMethods.pdb
+C:\NewC#BookPostContract\Attachments_2011_12_7\NewCodeFolder\Chapter 5\Chapter05StringMethods\StringMethods\bin\Debug\StringMethods.exe
+C:\NewC#BookPostContract\Attachments_2011_12_7\NewCodeFolder\Chapter 5\Chapter05StringMethods\StringMethods\bin\Debug\StringMethods.pdb
+C:\NewC#BookPostContract\Attachments_2011_12_7\NewCodeFolder\Chapter 5\Chapter05StringMethods\StringMethods\obj\Debug\StringMethods.csprojResolveAssemblyReference.cache
+C:\NewC#BookPostContract\Attachments_2011_12_7\NewCodeFolder\Chapter 5\Chapter05StringMethods\StringMethods\obj\Debug\frmMain.resources
+C:\NewC#BookPostContract\Attachments_2011_12_7\NewCodeFolder\Chapter 5\Chapter05StringMethods\StringMethods\obj\Debug\StringMethods.csproj.GenerateResource.Cache
+C:\Users\Programming7\Downloads\4\StringMethods\bin\Debug\StringMethods.exe
+C:\Users\Programming7\Downloads\4\StringMethods\bin\Debug\StringMethods.pdb
+C:\Users\Programming7\Downloads\4\StringMethods\obj\Debug\frmMain.resources
+C:\Users\Programming7\Downloads\4\StringMethods\obj\Debug\StringMethods.csproj.GenerateResource.cache
+C:\Users\Programming7\Downloads\4\StringMethods\obj\Debug\StringMethods.csproj.CoreCompileInputs.cache
+C:\Users\Programming7\Downloads\4\StringMethods\obj\Debug\StringMethods.exe
+C:\Users\Programming7\Downloads\4\StringMethods\obj\Debug\StringMethods.pdb
+C:\Users\Programming7\Downloads\4\StringMethods\obj\Debug\StringMethods.csprojAssemblyReference.cache
+C:\class activity 4\StringMethods\bin\Debug\StringMethods.exe
+C:\class activity 4\StringMethods\bin\Debug\StringMethods.pdb
+C:\class activity 4\StringMethods\obj\Debug\StringMethods.csprojAssemblyReference.cache
+C:\class activity 4\StringMethods\obj\Debug\frmMain.resources
+C:\class activity 4\StringMethods\obj\Debug\StringMethods.csproj.GenerateResource.cache
+C:\class activity 4\StringMethods\obj\Debug\StringMethods.csproj.CoreCompileInputs.cache
+C:\class activity 4\StringMethods\obj\Debug\StringMethods.exe
+C:\class activity 4\StringMethods\obj\Debug\StringMethods.pdb
